@@ -60,12 +60,7 @@ const Navbar = () => {
       <Link href="/">
         <a className="hidden md:block flex-shrink-0">
           <div className="image-wrapper">
-            <Image
-              src="/logo.png"
-              alt="logo"
-              layout="fill"
-              className="!object-contain !h-8 !w-20 !relative"
-            />
+          <h1 className="font-bold text-2xl">TalentTrail</h1>
           </div>
         </a>
       </Link>

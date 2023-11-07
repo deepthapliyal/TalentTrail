@@ -100,10 +100,10 @@ const Footer = () => {
       </footer>
       <section className="attribution pt-2 border-top-light">
         <a href="#" className="logo flex-center-center gap-1 my-3">
-          <img src="/logo.png" alt="" className="w-20" />
+        <h1 className="font-bold text-2xl">TalentTrail</h1>
         </a>
         <p className="text-center  text-muted pb-2">
-          Created By <span className="text-primary">Wabweni Brian</span> | All
+          Created By <span className="text-primary">Deep Thapliyal</span> | All
           Rights Reserved
         </p>
       </section>
